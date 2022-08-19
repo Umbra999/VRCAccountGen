@@ -1,0 +1,16 @@
+C:\Users\knoch\source\repos\VRCAccountGen\VRCAccountGen\bin\Debug\netcoreapp3.1\VRCAccountGen.exe
+C:\Users\knoch\source\repos\VRCAccountGen\VRCAccountGen\bin\Debug\netcoreapp3.1\VRCAccountGen.deps.json
+C:\Users\knoch\source\repos\VRCAccountGen\VRCAccountGen\bin\Debug\netcoreapp3.1\VRCAccountGen.runtimeconfig.json
+C:\Users\knoch\source\repos\VRCAccountGen\VRCAccountGen\bin\Debug\netcoreapp3.1\VRCAccountGen.runtimeconfig.dev.json
+C:\Users\knoch\source\repos\VRCAccountGen\VRCAccountGen\bin\Debug\netcoreapp3.1\VRCAccountGen.dll
+C:\Users\knoch\source\repos\VRCAccountGen\VRCAccountGen\bin\Debug\netcoreapp3.1\VRCAccountGen.pdb
+C:\Users\knoch\source\repos\VRCAccountGen\VRCAccountGen\bin\Debug\netcoreapp3.1\2Captcha.dll
+C:\Users\knoch\source\repos\VRCAccountGen\VRCAccountGen\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\knoch\source\repos\VRCAccountGen\VRCAccountGen\obj\Debug\netcoreapp3.1\VRCAccountGen.csprojAssemblyReference.cache
+C:\Users\knoch\source\repos\VRCAccountGen\VRCAccountGen\obj\Debug\netcoreapp3.1\VRCAccountGen.AssemblyInfoInputs.cache
+C:\Users\knoch\source\repos\VRCAccountGen\VRCAccountGen\obj\Debug\netcoreapp3.1\VRCAccountGen.AssemblyInfo.cs
+C:\Users\knoch\source\repos\VRCAccountGen\VRCAccountGen\obj\Debug\netcoreapp3.1\VRCAccountGen.csproj.CoreCompileInputs.cache
+C:\Users\knoch\source\repos\VRCAccountGen\VRCAccountGen\obj\Debug\netcoreapp3.1\VRCAccountGen.csproj.CopyComplete
+C:\Users\knoch\source\repos\VRCAccountGen\VRCAccountGen\obj\Debug\netcoreapp3.1\VRCAccountGen.dll
+C:\Users\knoch\source\repos\VRCAccountGen\VRCAccountGen\obj\Debug\netcoreapp3.1\VRCAccountGen.pdb
+C:\Users\knoch\source\repos\VRCAccountGen\VRCAccountGen\obj\Debug\netcoreapp3.1\VRCAccountGen.genruntimeconfig.cache
